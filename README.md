@@ -1,81 +1,74 @@
-# Hi, I'm Shivkant Kushwaha 👋
+# Hey, I'm Shivkant 👋
 
-### Computer Science Undergraduate | Backend Engineering | Cloud Computing
+### Building software. Exploring systems. Learning by shipping.
 
-I'm a Computer Science and Engineering undergraduate at **Bennett University**, interested in building reliable backend systems, cloud infrastructure, and scalable software applications.
+I'm a Computer Science undergraduate at **Bennett University**, interested in backend engineering, cloud infrastructure and system design.
 
-I enjoy exploring system design, distributed systems, database architecture, and cloud technologies while building practical engineering projects.
-
-- 🎓 B.Tech in Computer Science and Engineering
-- ☁️ Interested in Cloud Infrastructure and Backend Engineering
-- ⚙️ Exploring Distributed Systems and System Design
-- 🚀 Building software projects and learning through implementation
+I enjoy turning ideas into working products and understanding what happens behind the scenes — from APIs and databases to deployment and distributed systems.
 
 ---
 
-### 🛠️ Technical Skills
+### ⚡ What I'm up to
+
+- 🔭 Building **BMSync** — a cross-browser bookmark synchronization engine.
+- 🌱 Exploring **Backend Engineering, Cloud Infrastructure & Distributed Systems**.
+- ☁️ Working with AWS, Azure, Docker and PostgreSQL.
+- 💡 Interested in scalable architecture and building useful software.
+
+---
+
+### 🧩 Things I've built
+
+**BMSync** · Cross-Browser Synchronization
+
+A privacy-focused browser extension with synchronization logic, conflict resolution and tombstone-based deletion tracking.
+
+**Flurit** · SaaS Analytics & Churn Intelligence
+
+An analytics application combining churn prediction, SHAP explainability and revenue-focused retention prioritization. Deployed using Docker and Azure Container Apps.
+
+---
+
+### 🛠️ My Tech Stack
 
 **Languages**
-- C++, Go, JavaScript, SQL
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Backend & Databases**
-- NestJS, PostgreSQL, Prisma ORM, Redis
 
-**Cloud & Infrastructure**
-- AWS (EC2, S3, VPC, IAM, SQS, Lambda, ECS, ECR, RDS)
-- Microsoft Azure (Azure Container Registry, Azure Container Apps)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-**DevOps & Tools**
-- Docker, Nginx, Git, GitHub Actions, Jira, Linux
+**Cloud & DevOps**
 
-**Core Concepts**
-- System Design, Distributed Systems, High Availability, REST APIs
-
----
-
-### 🚀 Featured Projects
-
-#### 1. BMSync — Cross-Browser Bookmark Synchronization
-`JavaScript` `Browser Extension APIs` `Synchronization Engine`
-
-Developing a privacy-focused browser extension to synchronize bookmark data across browsers.
-
-- Building Chrome-to-Firefox and Firefox-to-Chrome interoperability.
-- Implementing a dedicated synchronization engine.
-- Implemented Last-Write-Wins conflict resolution.
-- Using tombstone-based deletion tracking to prevent deleted bookmarks from reappearing.
-- Working on synchronization state reconciliation and browser restart/reconnect scenarios.
-
-#### 2. Flurit — SaaS Customer Churn Prediction & Analytics
-`Python` `SQL` `Scikit-learn` `SHAP` `Docker` `Microsoft Azure`
-
-A SaaS analytics project focused on customer churn prediction, explainability, and retention prioritization.
-
-- Working with the RavenStack SaaS Subscription & Churn Analytics dataset.
-- Applying SHAP-based explainability to identify churn risk drivers.
-- Using a Customer Value × Churn Risk matrix to prioritize retention actions.
-- Containerized the application using Docker.
-- Built and pushed Docker images to Azure Container Registry.
-- Deployed the application using Azure Container Apps.
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-### ☁️ Certifications
+### 🎓 Certifications
 
-- AWS Academy Graduate – Cloud Foundations
-- AWS Academy Graduate – Cloud Developing
-- AWS Academy Graduate – Cloud Architecting
-- AWS Academy Graduate – Cloud Security Foundations
-- AWS Academy Graduate – Data Engineering
-
----
-
-### 🤝 Connect With Me
-
-- **LinkedIn:** [linkedin.com/in/shivkantkushwaha](https://www.linkedin.com/in/shivkantkushwaha/)
-- **GitHub:** [github.com/shivkantkushwaha](https://github.com/shivkantkushwaha)
-- **Email:** [shivkant.career@gmail.com](mailto:shivkant.career@gmail.com)
+- AWS Academy Graduate — Cloud Foundations
+- AWS Academy Graduate — Cloud Developing
+- AWS Academy Graduate — Cloud Architecting
+- AWS Academy Graduate — Cloud Security Foundations
+- AWS Academy Graduate — Data Engineering
 
 ---
 
-*Always learning, building, and exploring better ways to engineer software.*
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivkantkushwaha/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shivkant.career@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shivkantkushwaha)
+
+*Building, breaking, learning and building again.*
